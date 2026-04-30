@@ -19,7 +19,7 @@ This project aims to help users **save time**, **stay informed**, and **verify t
 ---
 
 ![Fake News Detection & Summarization](./static/images/form.png)
-
+![Fake News Detection & Summarization](./static/images/form1.png)
 ## 🧠 Tech Stack
 
 | Component | Technology Used |
@@ -50,7 +50,7 @@ This project aims to help users **save time**, **stay informed**, and **verify t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yasaswinisrit/fake_news_detection_and_summarization.git
+git clone https://github.com/YashuJG/genai-fake-news-detection-and-summarization.git
 cd fake_news_detection_and_summarization
 
 # Create and activate virtual environment
